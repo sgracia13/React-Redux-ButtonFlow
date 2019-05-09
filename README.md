@@ -28,6 +28,6 @@ cd client
 npm start
 ```
 
-5. This is a basic front-end application that will automatically run on localport:3000 on your web-browser.
-6.Enjoy! Feel free to play around with it. 
+This is a basic front-end application that will automatically run on localport:3000 on your web-browser.
+Enjoy! Feel free to play around with it. 
 
