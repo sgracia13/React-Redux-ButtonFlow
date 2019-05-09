@@ -3,21 +3,27 @@
 ![img](https://user-images.githubusercontent.com/47371676/57485137-8ed8fe80-7270-11e9-8618-345066f54d8b.png)
 
 
-This particular app does basic addition and subtraction calculations using a stepper. This implementation is simple, but shows the true power behind Redux and its control over global state. 
+This particular app increments or decrements using a stepper. This implementation is simple, but shows the true power behind Redux and its control over global state. 
 
 ## Installation
 
 1. Clone this github respository. 
-2. Then from your command line: 
+2. Then from your command line run these in order: 
+
 
 ```bash
 cd React-Redux-ButtonFlow
 ```
-3.
+
+```bash
+npm i -- save react-redux
+```
+
+
 ```bash
 cd client
 ```
-4. 
+ 
 ```bash
 npm start
 ```
