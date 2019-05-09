@@ -1,5 +1,7 @@
 # React-Redux-ButtonFlow
 
+![alt text](file:///Users/sebastiang/Desktop/img.png)
+
 This particular app does basic addition and subtraction calculations using a stepper. This implementation is simple, but shows the true power behind Redux and its control over global state. 
 
 ## Installation
